@@ -5,10 +5,13 @@ const ctx = canvas.getContext("2d");
 
 const messages = [
   "You are loved today and always 💞",
-  "Sending hugs, hearts, and happiness 💝",
   "You're my favorite reason to smile 😊",
-  "Love looks amazing on you ✨",
-  "Wishing you the sweetest Valentine's Day 🤍🌹",
+  "Everything looks amazing on you ✨",
+  "You are appreciated today and always 🤍”,
+  "Sending du’as, kindness, and happiness your way 🌷”,
+  "You’re a beautiful reason to be grateful 😊”,
+  "May your character and light always shine ✨”,
+  "Wishing you a peaceful and blessed day filled with goodness 🤍🌹”
 ];
 
 let confetti = [];
