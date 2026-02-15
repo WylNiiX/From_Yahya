@@ -54,7 +54,7 @@ const messages = [
 ];
 
 const nahMessages = [
-  "Can the duck change your mind?",
+  "Can the ducks change your mind?",
   "Are you sure?",
   "I will tell Lumba! 🐈‍⬛",
 ];
