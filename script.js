@@ -7,6 +7,7 @@ const emojiBackground = document.querySelector(".emoji-background");
 // const backgroundEmojis = ["🤍", "🤍", "🤍", "🤍🌹", "🤍🌹"];
 const backgroundEmojis = ["🌼", "🪷", "🐣", "🦢", "🌸", "💛", "🐈"];
 
+
 function fillEmojiBackground() {
   if (!emojiBackground) return;
 
@@ -38,14 +39,15 @@ function fillEmojiBackground() {
 // ];
 
 const messages = [
-  "You are loved today and always 🤍",
-  "Everything looks amazing on you ✨",
+  "You are one of the funniest people I know",
+  "You make everything lighter and brighter ✨",
   "Sending du'as, kindness, and happiness your way",
-  "I am grateful that life made me know you",
-  "May your character and light always shine ✨",
-  "You always give me a reason to smile 😊",
-  "Talking to you felt so easy and sincere 🌿",
-  "Wishing you a peaceful and blessed day filled with goodness 🤍🌹",
+  "I genuinely feel lucky that Allah let me meet you",
+  "Some people are rare. You are one of them",
+  "You are important to me, and I dont say that lightly",
+  "Talking to you always feel natural and sincere 🌿",
+  "I really like how curious you are, thats a sign of real intelligence",
+  "May Allah always protect your beautiful and kind heart 🤍",
 ];
 
 let confetti = [];
