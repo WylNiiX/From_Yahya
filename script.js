@@ -41,6 +41,10 @@ function fillEmojiBackground() {
 
 const messages = [
   "You are one of the funniest people I know",
+  "Gambaree !! 🌸",,
+  "I really really like you",
+  "You are my favorite flower",
+  "I love you",
   "You make everything lighter and brighter ✨",
   "Sending du'as, kindness, and happiness your way",
   "I genuinely feel lucky that Allah let me meet you",
