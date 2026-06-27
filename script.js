@@ -42,7 +42,7 @@ function fillEmojiBackground() {
 const messages = [
   "You are one of the funniest people I know",
   "Gambaree !! 🌸",,
-  "I really really like you",
+  "I really, really like you",
   "You are my favorite flower 🌸",
   "I love you",
   "You make everything lighter and brighter ✨",
